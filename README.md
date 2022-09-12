@@ -1,4 +1,4 @@
-- Hi there, my name is Ricky.
+Hi, I'm Ricky.
 
 <!---
 rratliff5307/rratliff5307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
