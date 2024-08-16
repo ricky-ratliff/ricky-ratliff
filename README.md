@@ -1,6 +1,15 @@
 # Hello.sh
 
-`$ figlet -kt -f mini "Hi. I'm Ricky"`
+``` 
+#!/usr/bin/env bash
+
+hello="Hi. I'm"
+
+figlet -kt -f mini $hello $USER
+
+$ ./hello.sh
+
+```
 
 <pre>          ___           _             
 |_| o      | / ._ _    |_) o  _ |     
@@ -10,6 +19,12 @@
 
 # About Me
 IT professional with a creative streak. I have been fortunate enough to gain expertise in various operating systems, software, and hardware throughout my career, which began in 2009. My time in the field has also equipped me with excellent problem-solving and interpersonal skills, allowing me to work well with diverse technology and teams in high-pressure situations. My curiosity and love of learning and helping others make me a naturally motivated lifelong learner. I seek opportunities that will allow me to grow and utilize my skills so that I may have a positive influence on the organization and those around me. I am pursuing a Bachelor of Science in Information Technology from WGU, which I will finish by October 2025.
+
+# Interests
+
+- Learning about and experimenting with all types of technology 
+- Linux & Open Source 
+- UI/UX Design and Web Development
 
 # Current Personal Projects
 These are projects that I work on as time allows between family, work, and school obligations. My motivations for working on these projects include gaining experience with tech that interests me while hopefully giving something back to the free and open-source software community that has been an invaluable source of knowledge and inspiration for me.
