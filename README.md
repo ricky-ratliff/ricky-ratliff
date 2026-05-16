@@ -1,27 +1,18 @@
-# Hello.sh
-
-``` 
-#!/usr/bin/env bash
-
-hello="Hi. I'm"
-
-figlet -kt -f mini $hello $USER
-
-$ ./hello.sh
-
-```
-
-<pre>          ___           _             
-|_| o      | / ._ _    |_) o  _ |     
-| | | o   _|_  | | |   | \ | (_ |&lt; \/ 
-                                   /  
+<pre>.-.         .-.  .-.           .--.     _                .-.      .-.
+: :         : :  : :          : .-&apos;    :_;               : :      : :
+: `-.  .--. : :  : :   .--.   : `;.--. .-. .--. ,-.,-. .-&apos; : .--. : :
+: .. :&apos; &apos;_.&apos;: :_ : :_ &apos; .; :  : : : ..&apos;: :&apos; &apos;_.&apos;: ,. :&apos; .; :`._-.&apos;:_;
+:_;:_;`.__.&apos;`.__;`.__;`.__.&apos;  :_; :_;  :_;`.__.&apos;:_;:_;`.__.&apos;`.__.&apos;:_;
+                                                                     
 </pre>
 
 # Interests
 
-- Learning about and experimenting with all types of technology 
-- GNU/Linux, Free & Open Source Software 
-- Web Design and Web Development (CSS is fun)
+- Learning about and experimenting with all types of technology
+- System & network administration, virtualization, configuration management, automation 
+- GNU/Linux, Free(Libre) & Open Source Software, [Self-Hosting](https://selfh.st/apps/)
+- Technical writing, documentation, teaching & training
+- Graphic/Web Design and Web Development
 - Music production, audio engineering, sound design
 
 # Current Personal Projects
@@ -31,9 +22,9 @@ These are projects that I work on as time allows between other obligations. My m
 - Proxmox VE Server
   - Nextcloud, Immich, Jellyfin, ZFS Mirror RAID, *Arr services, etc.
 - Ubuntu Server
-  - Thin Client running Ubuntu Server, providing DNS, DHCP, DMZ, VPN
+  - Thin Client running Ubuntu Server, providing DNS, DHCP, DMZ, and VPN services for all devices.
 - Brocade ICX-6430-C12 (12 Port managed Layer 2 switch)
-  -  VLANs for DMZ
+  -  VLANs, DMZ, PoE
 - Windows Server and Desktop Administration Lab Using Type 2 Hypervisors
   - Built a Windows domain lab environment that allows me to gain experience deploying services common in Windows environments
     - Active Directory, DNS, DHCP, Group Policy, WDS, WSUS, NTFS Permissions, Network File Shares, Powershell
@@ -41,7 +32,7 @@ These are projects that I work on as time allows between other obligations. My m
 
 ## Web Development Projects
 - TLDP Dark (dark mode user stylesheet for The Linux Documentation Project)
-  - This is a custom CSS stylesheet applied using the Stylus browser extension
+  - This is a custom CSS stylesheet applied using the Stylus browser extension with the goal of increasing legibility and ease of use.
   - I aim to publish the style to UserStyles.world for public use once I am satisfied with it.
 - Paradigm Pet Professionals (fictional company website redesign and redevelopment)
   - This was a UI Design class project that I became very invested in. 
